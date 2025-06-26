@@ -36,3 +36,4 @@ out/
 ### VS Code ###
 .vscode/
 /setenv-dev.sh
+/src/main/resources/docs/dokumente/
